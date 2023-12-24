@@ -1,12 +1,12 @@
 #[starknet::contract]
-mod HelloCairo {
+mod HelloCairoooo {
     #[storage]
     struct Storage {
         stored_data: u128
     }
     
     #[view]
-    fn hello_cairo() -> felt252 {
-        return 'Hello Cairo!';
+    fn hello_cairoooo() -> felt252 {
+        return 'Helloooo Cairo!';
     }
 }
