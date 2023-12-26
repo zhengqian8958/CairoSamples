@@ -1,4 +1,4 @@
 use debug::PrintTrait;
 fn main() {
-	'Hello, world!'.print();
+	'Hellooooooo, world!'.print();
 }
